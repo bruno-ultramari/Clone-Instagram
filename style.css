@@ -30,10 +30,12 @@ body {
     align-items: center;
     justify-content: center;
     width: 50%;
+    background-color: none;
 }
 
 .instagram-phone img {
     height: 50rem;
+
 }
 
 .instagram-continue {
@@ -54,6 +56,7 @@ body {
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
+    max-width: 350px;
 }
 
 .group:nth-child(1) {
